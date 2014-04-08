@@ -1,4 +1,4 @@
-cgil.github.io
+cgil.github.io -> dotgil.com
 ==============
 
 Personal site
