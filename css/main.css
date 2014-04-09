@@ -27,9 +27,10 @@ h1 {
 
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color:  #CC6600; }
+a:visited { color:  #FFFBD0; }
+a:hover   { color:  #FF9900; }
+a:active  { color:  #C13100; }
 
 
 .banner {
