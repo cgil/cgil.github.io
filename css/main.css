@@ -28,8 +28,8 @@ h1 {
 p { margin: 1em 0; }
 
 a         { color:  #CC6600; }
-a:visited { color:  #FFFBD0; }
-a:hover   { color:  #FF9900; }
+a:visited { color:  #FF9900; }
+a:hover   { color:  #FFCC00; }
 a:active  { color:  #C13100; }
 
 
